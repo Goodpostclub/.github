@@ -1,7 +1,9 @@
 
 # Raveshare
 
-Content Creation platform protecting User's IP right from day 0.
+Lenspost is a fun onchain canva where users can drag drop remix NFTs into DOPE memes, gifs, social content & more! NFT INFRA at the back, RAVE party in the front!
+
+We're Cross Chain Canva powering co-creation & revenue share with BIG MEME ENERGY!
 
 ## Screenshots
 
